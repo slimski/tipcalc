@@ -38,7 +38,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="1"/>
                                                 <connections>
-                                                    <action selector="appendOne:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6W0-ej-zMh"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ifg-b2-aH2"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u7a-bb-pHG">
@@ -46,7 +46,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="2"/>
                                                 <connections>
-                                                    <action selector="appendTwo:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fly-Tw-J1g"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="e34-1Q-OTj"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cOA-F9-OAc">
@@ -54,7 +54,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="3"/>
                                                 <connections>
-                                                    <action selector="appendThree:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vIk-Qa-ruB"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="x4f-DT-j5f"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -67,7 +67,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="4"/>
                                                 <connections>
-                                                    <action selector="appendFour:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8cD-C8-T3m"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="S3q-z6-psk"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xve-0v-KEH">
@@ -75,7 +75,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="5"/>
                                                 <connections>
-                                                    <action selector="appendFive:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uBC-3c-IQZ"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0Gy-yW-ksp"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Oi1-Pt-GSJ">
@@ -83,7 +83,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="6"/>
                                                 <connections>
-                                                    <action selector="appendSix:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qlK-Wm-MCa"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Cj1-Ef-rbO"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -96,7 +96,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="7"/>
                                                 <connections>
-                                                    <action selector="appendSeven:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jek-ln-ol3"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uTL-pt-U1A"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bVj-3h-HWU">
@@ -104,7 +104,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="8"/>
                                                 <connections>
-                                                    <action selector="appendEight:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ed7-58-dPZ"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mol-wB-KNH"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mSM-Zp-DhY">
@@ -112,7 +112,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="9"/>
                                                 <connections>
-                                                    <action selector="appendNine:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tT3-38-BO3"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fEZ-hH-mXy"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -133,7 +133,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="0"/>
                                                 <connections>
-                                                    <action selector="appendZero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gXQ-mI-crW"/>
+                                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GYx-Rx-XLM"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aOn-n9-8cm">
@@ -172,20 +172,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="calcButton" destination="StS-to-zoV" id="E7E-Cm-0JK"/>
-                        <outlet property="delButton" destination="aOn-n9-8cm" id="ntq-he-KCv"/>
-                        <outlet property="dotButton" destination="5IE-IS-B20" id="avI-Vw-daY"/>
-                        <outlet property="eight" destination="bVj-3h-HWU" id="QwS-M8-cRF"/>
-                        <outlet property="five" destination="xve-0v-KEH" id="l6g-gN-eUm"/>
-                        <outlet property="four" destination="mcs-nL-D8N" id="bEo-dB-mYN"/>
                         <outlet property="label" destination="LKm-Vx-7Dq" id="KQF-Bc-Co3"/>
-                        <outlet property="nine" destination="mSM-Zp-DhY" id="bSc-4m-Zn5"/>
-                        <outlet property="one" destination="2ih-FO-pX9" id="mZq-AK-2l1"/>
-                        <outlet property="seven" destination="oFq-8a-qAK" id="Y04-JH-bVW"/>
-                        <outlet property="six" destination="Oi1-Pt-GSJ" id="uhW-Fr-WCJ"/>
-                        <outlet property="three" destination="cOA-F9-OAc" id="NQg-85-aXx"/>
-                        <outlet property="two" destination="u7a-bb-pHG" id="hvv-3i-KBP"/>
-                        <outlet property="zero" destination="F11-cJ-aCu" id="V3H-Gk-ZQd"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
